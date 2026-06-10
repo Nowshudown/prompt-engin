@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Engineering",
+  "description": "Une présentation interactive et moderne sur l'art du Prompt Engineering, conçue pour un public étudiant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
